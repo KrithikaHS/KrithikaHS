@@ -15,7 +15,7 @@
 ---
 
 #### 💻 Core Languages & Frameworks
-- `Python` · `C` · `React` · `HTML` · `CSS` · `SQLite` · `SQL` . `Java`
+- `Python` · `C` · `React` · `HTML5` · `CSS` · `SQLite` · `MySQL` . `Java` . `Javascript` . `Canva` . `Figma` . `Github`
 
 ---
 
@@ -24,19 +24,9 @@
 
 - 💼 [LinkedIn](www.linkedin.com/in/krithika-h-shettigar)
 - 📧 [Email](krithikahs14@gmail.com)
-- 🧠 [LeetCode]([https://leetcode.com/your-profile](https://leetcode.com/u/Krithika_H_S/))
+- 🧠 [LeetCode](https://leetcode.com/u/Krithika_H_S/)
 
 ---
-
-### 📈 My GitHub World
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="49%" />
-</div>
-
----
-
 
 > “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
 
