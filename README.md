@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Krithika 👋</h1>
 
-<!--
-**KrithikaHS/KrithikaHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🔧 Full-Stack Developer | 🎨 UI/UX Designer | 📊 Data Science & AIML Explorer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+💻 I'm passionate about building smart, sleek, and impactful apps — from frontend animations to backend logic.  
+🧠 Currently exploring the world of **Data Science**, **Machine Learning**, and everything AI.  
+✨ I believe a well-crafted UI is just as powerful as a well-written algorithm.  
+
+---
+
+#### 💻 Core Languages & Frameworks
+- `Python` · `C` · `React` · `HTML` · `CSS` · `SQLite` · `SQL` . `Java`
+
+---
+
+
+### 🌐 Let's Connect
+
+- 💼 [LinkedIn](www.linkedin.com/in/krithika-h-shettigar)
+- 📧 [Email](krithikahs14@gmail.com)
+- 🧠 [LeetCode]([https://leetcode.com/your-profile](https://leetcode.com/u/Krithika_H_S/))
+
+---
+
+### 📈 My GitHub World
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="49%" />
+</div>
+
+---
+
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+
+---
