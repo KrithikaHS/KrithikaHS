@@ -22,7 +22,7 @@
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/krithika-h-shettigar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/krithika-h-shettigar/)
 - 📧 [Email](krithikahs14@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/u/Krithika_H_S/)
 
