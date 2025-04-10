@@ -28,6 +28,28 @@
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical" width="47%" />
+</div>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KrithikaHS&theme=darkhub&column=7" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KrithikaHS&theme=tokyonight&border_radius=10" />
+</p>
