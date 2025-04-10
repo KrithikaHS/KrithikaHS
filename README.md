@@ -19,18 +19,6 @@
 
 ---
 
-
-### 🌐 Let's Connect
-
-<p align="center"> <a href="https://www.linkedin.com/in/krithika-h-shettigar/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://leetcode.com/u/Krithika_H_S/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p>
-<a href="mailto:krithikahs14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
----
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
