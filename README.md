@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical" width="47%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical&count_private=true&exclude_repo=repo1,repo2" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical&count_private=true&exclude_repo=repo1,repo2&hide=c" width="47%" />
 </div>
 
 
