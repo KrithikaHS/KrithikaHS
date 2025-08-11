@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Krithika 👋</h1>
 
 <p align="center">
-  🔧 Full-Stack Developer | 🎨 UI/UX Designer | 📊 Data Science & AIML Explorer
+  🔧 Full-Stack Developer | 🎨 UI/UX Designer | AIML Explorer
 </p>
 
 ---
