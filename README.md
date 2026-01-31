@@ -1,45 +1,90 @@
-<h1 align="center">Hey there, I'm Krithika 👋</h1>
+<h1 align="center">Hey, I'm Krithika 👋</h1>
 
 <p align="center">
-  🔧 Full-Stack Developer | 🎨 UI/UX Designer | AIML Explorer
+  Full-Stack Developer • UI/UX Designer • AI/ML Explorer  
+</p>
+
+<p align="center">
+  I build clean, scalable web apps where strong backend logic meets thoughtful UI.
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-💻 I'm passionate about building smart, sleek, and impactful apps — from frontend animations to backend logic.  
-🧠 Currently exploring the world of Data Science, Machine Learning, and everything AI.  
-✨ I believe a well-crafted UI is just as powerful as a well-written algorithm.  
+- 💻 Full-stack developer who enjoys turning ideas into real, usable products  
+- 🎨 Strong believer that **good UI amplifies good engineering**  
+- 🧠 Exploring **AI, ML, and Data-driven systems**  
+- 🏆 Hackathon-driven, project-oriented, and always curious  
+
+---
+
+## 🛠️ Tech Stack (What I Actually Use)
+
+**Languages**  
+Python • JavaScript • Java • C  
+
+**Frontend**  
+React • HTML • CSS • UI/UX Design (Figma, Canva)
+
+**Backend**  
+FastAPI • Flask • Django • REST APIs • JWT Auth  
+
+**Databases**  
+MySQL • SQLite  
+
+**Tools & Platforms**  
+Git & GitHub • VS Code • Salesforce  
 
 ---
 
-#### 💻 Core Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## 📌 Featured Projects
 
+### 🔹 MailAI – AI-Powered Email Auto-Responder  
+**Tech:** Flask • Gmail API • FAISS • LangChain • OpenAI  
+- Automatically reads & classifies emails  
+- Uses RAG to generate context-aware replies  
+- Designed for productivity & automation  
+
+### 🔹 Student 360° Web App  
+**Tech:** FastAPI • React • Role-Based Auth  
+- Admin, Mentor & Placement modules  
+- Secure authentication & scalable backend design  
+- Built with real-world academic workflows in mind  
+
+### 🔹 Event Registration & Management System  
+**Tech:** Flask • SQL • Excel Automation  
+- Role-based event creation & participant tracking  
+- Search across multiple events & clubs  
+
+➡️ *More projects on my GitHub & Portfolio*
 
 ---
+
+## 🌱 Currently Exploring
+- Machine Learning & Data Science fundamentals  
+- AI-powered applications (RAG, automation)  
+- Improving system design & backend scalability  
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical&count_private=true&exclude_repo=repo1,repo2&hide=c" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrithikaHS&theme=radical" width="48%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical" width="40%" />
+</div>
 
+---
 
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: *add link*  
+- 🌐 Portfolio: *add link*  
+- 🧠 LeetCode / Coding Profile: *optional but powerful*  
+
+✨ Always open to collaborations, internships, and meaningful tech conversations.
