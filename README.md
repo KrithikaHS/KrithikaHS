@@ -55,13 +55,18 @@ Git GitHub VS Code Salesforce
 ![GitHub Streak](https://streak-stats.demolab.com?user=KrithikaHS&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical)
+## GitHub Activity
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=KrithikaHS)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact)
 
 ---
 
-## 📫 Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/krithika-h-shettigar/  
-- LeetCode: https://leetcode.com/u/Krithika_H_S/  
-- CodeChef: https://www.codechef.com/users/krithika_h_s  
+## 📫 Let’s Connect 
+- 💼 LinkedIn: [(https://www.linkedin.com/in/krithika-h-shettigar/)](https://www.linkedin.com/in/krithika-h-shettigar/)
+- 🧠 Coding Profile: [https://leetcode.com/your-username](https://leetcode.com/u/Krithika_H_S/) | [//www.codechef.com/users/your-username](https://leetcode.com/u/Krithika_H_S/)
 
 Always open to learning opportunities collaborations and meaningful discussions.
