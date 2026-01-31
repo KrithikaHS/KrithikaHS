@@ -1,90 +1,67 @@
 <h1 align="center">Hey, I'm Krithika 👋</h1>
 
 <p align="center">
-  Full-Stack Developer • UI/UX Designer • AI/ML Explorer  
+  Full Stack Developer | UI UX Designer | AI/ML Explorer
 </p>
 
 <p align="center">
-  I build clean, scalable web apps where strong backend logic meets thoughtful UI.
+  I enjoy building clean and reliable web applications with a strong focus on usability.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer who enjoys turning ideas into real, usable products  
-- 🎨 Strong believer that **good UI amplifies good engineering**  
-- 🧠 Exploring **AI, ML, and Data-driven systems**  
-- 🏆 Hackathon-driven, project-oriented, and always curious  
+- I like turning ideas into real and usable products  
+- I care a lot about clean interfaces and smooth user experience  
+- I enjoy working on both frontend and backend parts of applications  
+- I learn best by building projects and experimenting  
 
 ---
 
-## 🛠️ Tech Stack (What I Actually Use)
+## 🛠️ Tech Stack
 
 **Languages**  
-Python • JavaScript • Java • C  
+Python JavaScript Java C  
 
 **Frontend**  
-React • HTML • CSS • UI/UX Design (Figma, Canva)
+React HTML CSS  
+Figma Canva  
 
 **Backend**  
-FastAPI • Flask • Django • REST APIs • JWT Auth  
+FastAPI Flask Django  
+REST APIs JWT Authentication  
 
 **Databases**  
-MySQL • SQLite  
+MySQL SQLite  
 
-**Tools & Platforms**  
-Git & GitHub • VS Code • Salesforce  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 MailAI – AI-Powered Email Auto-Responder  
-**Tech:** Flask • Gmail API • FAISS • LangChain • OpenAI  
-- Automatically reads & classifies emails  
-- Uses RAG to generate context-aware replies  
-- Designed for productivity & automation  
-
-### 🔹 Student 360° Web App  
-**Tech:** FastAPI • React • Role-Based Auth  
-- Admin, Mentor & Placement modules  
-- Secure authentication & scalable backend design  
-- Built with real-world academic workflows in mind  
-
-### 🔹 Event Registration & Management System  
-**Tech:** Flask • SQL • Excel Automation  
-- Role-based event creation & participant tracking  
-- Search across multiple events & clubs  
-
-➡️ *More projects on my GitHub & Portfolio*
+**Tools**  
+Git GitHub VS Code Salesforce  
 
 ---
 
-## 🌱 Currently Exploring
-- Machine Learning & Data Science fundamentals  
-- AI-powered applications (RAG, automation)  
-- Improving system design & backend scalability  
+## 🌱 Currently Learning
+
+- Machine Learning and Data Science basics  
+- Building smarter and more efficient backend systems  
+- Writing cleaner and more maintainable code  
 
 ---
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrithikaHS&theme=radical" width="48%" />
-</div>
+![Krithika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical" width="40%" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=KrithikaHS&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: *add link*  
-- 🌐 Portfolio: *add link*  
-- 🧠 LeetCode / Coding Profile: *optional but powerful*  
+- LinkedIn: https://www.linkedin.com/in/krithika-h-shettigar/  
+- LeetCode: https://leetcode.com/u/Krithika_H_S/  
+- CodeChef: https://www.codechef.com/users/krithika_h_s  
 
-✨ Always open to collaborations, internships, and meaningful tech conversations.
+Always open to learning opportunities collaborations and meaningful discussions.
