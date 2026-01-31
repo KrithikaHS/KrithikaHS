@@ -8,46 +8,37 @@
   Building clean, reliable web applications with a strong focus on usability.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krithika-h-shettigar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Krithika-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/Krithika_H_S/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
 
-I enjoy building products that are simple, useful, and easy to use.  
+I enjoy building products that are simple, useful and easy to use.  
 I like working across the stack and learning by building real projects.
 
 - Turning ideas into usable products  
 - Focused on clean interfaces and smooth user experience  
 - Comfortable with both frontend and backend development  
-- Curious, hands-on, and project driven  
+- Curious, hands-on and project driven  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 `Python` `JavaScript` `Java` `C`
 
-### 🎨 Frontend
+### Frontend
 `React` `HTML` `CSS`  
 `Figma` `Canva`
 
-### ⚙️ Backend
+### Backend
 `FastAPI` `Flask` `Django`  
 `REST APIs` `JWT Authentication`
 
-### 🗄️ Databases
+### Databases
 `MySQL` `SQLite`
 
-### 🔧 Tools
+### Tools
 `Git` `GitHub` `VS Code` `Salesforce`
 
 ---
@@ -75,7 +66,7 @@ I like working across the stack and learning by building real projects.
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/krithika-h-shettigar/  
-- 🧠 LeetCode: https://leetcode.com/u/Krithika_H_S/  
+- LinkedIn: https://www.linkedin.com/in/krithika-h-shettigar/  
+- LeetCode: https://leetcode.com/u/Krithika_H_S/  
 
-Always open to learning opportunities, collaborations, and meaningful discussions.
+Always open to learning opportunities, collaborations and meaningful discussions.
