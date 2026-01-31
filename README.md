@@ -57,11 +57,11 @@ Git GitHub VS Code Salesforce
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact&theme=radical)
 ## GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KrithikaHS&show_icons=true)
+![Repos](https://img.shields.io/badge/Public%20Repos-dynamic-blue)
 
-![Streak](https://streak-stats.demolab.com?user=KrithikaHS)
+![Followers](https://img.shields.io/github/followers/KrithikaHS)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikaHS&layout=compact)
+![Stars](https://img.shields.io/github/stars/KrithikaHS)
 
 ---
 
