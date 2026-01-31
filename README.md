@@ -1,65 +1,81 @@
 <h1 align="center">Hey, I'm Krithika 👋</h1>
 
 <p align="center">
-  Full Stack Developer | UI UX Designer | AI/ML Explorer
+  <b>Full Stack Developer</b> · <b>UI UX Designer</b> · <b>AI ML Explorer</b>
 </p>
 
 <p align="center">
-  I enjoy building clean and reliable web applications with a strong focus on usability.
+  Building clean, reliable web applications with a strong focus on usability.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krithika-h-shettigar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krithika-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Krithika_H_S/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- I like turning ideas into real and usable products  
-- I care a lot about clean interfaces and smooth user experience  
-- I enjoy working on both frontend and backend parts of applications  
-- I learn best by building projects and experimenting  
+I enjoy building products that are simple, useful, and easy to use.  
+I like working across the stack and learning by building real projects.
+
+- Turning ideas into usable products  
+- Focused on clean interfaces and smooth user experience  
+- Comfortable with both frontend and backend development  
+- Curious, hands-on, and project driven  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Python JavaScript Java C  
+### 💻 Languages
+`Python` `JavaScript` `Java` `C`
 
-**Frontend**  
-React HTML CSS  
-Figma Canva  
+### 🎨 Frontend
+`React` `HTML` `CSS`  
+`Figma` `Canva`
 
-**Backend**  
-FastAPI Flask Django  
-REST APIs JWT Authentication  
+### ⚙️ Backend
+`FastAPI` `Flask` `Django`  
+`REST APIs` `JWT Authentication`
 
-**Databases**  
-MySQL SQLite  
+### 🗄️ Databases
+`MySQL` `SQLite`
 
-**Tools**  
-Git GitHub VS Code Salesforce  
+### 🔧 Tools
+`Git` `GitHub` `VS Code` `Salesforce`
 
 ---
 
 ## 🌱 Currently Learning
 
-- Machine Learning and Data Science basics  
-- Building smarter and more efficient backend systems  
+- Machine Learning and Data Science fundamentals  
+- Designing efficient backend systems  
 - Writing cleaner and more maintainable code  
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KrithikaHS&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=KrithikaHS&theme=radical" width="48%" />
+</p>
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=KrithikaHS&theme=radical)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=KrithikaHS&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=KrithikaHS&layout=compact&theme=radical" width="40%" />
+</p>
 
 ---
 
-## 📫 Let’s Connect 
-- 💼 LinkedIn: [(https://www.linkedin.com/in/krithika-h-shettigar/)](https://www.linkedin.com/in/krithika-h-shettigar/)
-- 🧠 Coding Profile: [https://leetcode.com/your-username](https://leetcode.com/u/Krithika_H_S/) | [//www.codechef.com/users/your-username](https://leetcode.com/u/Krithika_H_S/)
+## 📫 Let’s Connect
 
-Always open to learning opportunities collaborations and meaningful discussions.
+- 💼 LinkedIn: https://www.linkedin.com/in/krithika-h-shettigar/  
+- 🧠 LeetCode: https://leetcode.com/u/Krithika_H_S/  
+
+Always open to learning opportunities, collaborations, and meaningful discussions.
